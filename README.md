@@ -132,16 +132,5 @@ The dashboard is built using a customer churn dataset containing information suc
 
 
 
-## 🔮 Future Improvements
-
-- Customer Churn Prediction using Machine Learning
-- Real-time Data Integration
-- Customer Lifetime Value Analysis
-- Advanced Forecasting
-- Automated Report Refresh
 
 
-
-## ⭐ If you like this project
-
-Give this repository a ⭐ on GitHub if you found it useful.
